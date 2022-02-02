@@ -1,0 +1,107 @@
+header {
+    background-color: #ecf6fe;
+}
+header p{
+    font-size: 15px;
+line-height: 35px;
+color: #008aff;
+font-weight: 300;
+font-family: "Josefin Sans";
+}
+nav ul a{
+    font-size: 13px;
+color: #008aff;
+font-weight: 400;
+font-family: "Josefin Sans"
+
+}
+nav li {
+    list-style: none;
+    list-style-type: none;
+  
+}
+nav a {
+    text-decoration: none;
+    padding-left: 3rem;
+}
+nav a blue {
+    width: 107px;
+}
+.navbod {
+    background-image: url('img/Layer\ 3.png');
+    background-repeat: no-repeat;
+    position: relative;
+}
+.navbod background-image {
+    position: absolute;
+    right: 600px;
+}
+    
+
+
+.med h4 {
+    font-size: 33px;
+color: #008aff;
+font-weight: 300;
+font-family: "Josefin Sans";
+margin-top: 205px;
+
+}
+.med h3 {
+    font-size: 68px;
+color: #13287e;
+font-weight: 400;
+font-family: "Josefin Sans";
+}
+.med p {
+    width: 675px;
+height: 58px;
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+}
+.med button {
+    margin-top: 50px;
+    width: 219px;
+height: 67px;
+border-radius: 33px;
+background-color: #ffe824;
+font-size: 14px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+}
+.comre {
+    margin-top: 60px;
+   
+}
+.comre h4 {
+    text-align: center;
+    font-size: 33px;
+color: #008aff;
+font-weight: 400;
+font-family: "Josefin Sans";
+
+}
+.comre h5 {
+    text-align: center;
+    font-size: 20px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+}
+.comre img {
+    border-radius:70px 0 70px 0;
+    font-size: 50%;
+}
+.comre p {
+    width: 515px;
+height: 58px;
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+}
